@@ -1,0 +1,13 @@
+flask
+flask-migrate
+flask-restful
+flask-sqlalchemy
+importlib-metadata
+importlib-resources
+ipdb
+marshmallow
+sqlalchemy-serializer
+Faker
+flask_cors
+flask-swagger-ui
+gunicorn
